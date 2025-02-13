@@ -88,6 +88,10 @@ Marketing campaigns generate vast amounts of data, but businesses often struggle
    plt.figure(figsize=(5, 3))
    plt.show()
    ```
+![Screenshot 2025-02-12 194233](https://github.com/user-attachments/assets/ecbc953d-5ac0-4750-b892-31c1a3709051)
+![Screenshot 2025-02-12 194248](https://github.com/user-attachments/assets/fc71f083-d52e-4e32-948f-14dce33debcb)
+![Screenshot 2025-02-12 194257](https://github.com/user-attachments/assets/c931f68c-88af-4c0a-b7ce-fab59e2aa8a0)
+![Screenshot 2025-02-12 194316](https://github.com/user-attachments/assets/88642a41-ca63-47eb-9ad8-98003673f189)
 
 4. **Model Building**
    ```python
