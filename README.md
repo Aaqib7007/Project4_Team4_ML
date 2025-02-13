@@ -22,6 +22,8 @@ Marketing campaigns generate vast amounts of data, but businesses often struggle
 
 `cleaned_data.csv`
 
+URL - https://raw.githubusercontent.com/hillz246/digital_market_csv/refs/heads/main/cleaned_data.csv
+
 - **Size**: 8000 rows of data
 - **Features**:
   - **Demographic Information**: CustomerID, Age, Gender, Income
