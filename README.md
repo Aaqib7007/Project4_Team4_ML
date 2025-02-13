@@ -88,10 +88,6 @@ Marketing campaigns generate vast amounts of data, but businesses often struggle
    plt.figure(figsize=(5, 3))
    plt.show()
    ```
-![Screenshot 2025-02-12 194233](https://github.com/user-attachments/assets/ecbc953d-5ac0-4750-b892-31c1a3709051)
-![Screenshot 2025-02-12 194248](https://github.com/user-attachments/assets/fc71f083-d52e-4e32-948f-14dce33debcb)
-![Screenshot 2025-02-12 194257](https://github.com/user-attachments/assets/c931f68c-88af-4c0a-b7ce-fab59e2aa8a0)
-![Screenshot 2025-02-12 194316](https://github.com/user-attachments/assets/88642a41-ca63-47eb-9ad8-98003673f189)
 
 4. **Model Building**
    ```python
@@ -122,6 +118,17 @@ Marketing campaigns generate vast amounts of data, but businesses often struggle
    print(classification_report(y_test, y_pred))
    print(confusion_matrix(y_test, y_pred))
    ```
+   ## Tableau Story
+- **Dashboard 1**: ![Screenshot 2025-02-12 194233](https://github.com/user-attachments/assets/e06be899-2a08-4458-a82d-aa693ccd0c6c)
+
+- **Dashboard 2**: ![Screenshot 2025-02-12 194248](https://github.com/user-attachments/assets/5b8f5916-6e27-4ab2-9865-52cc40f3a164)
+
+- **Dashboard 3**: ![Screenshot 2025-02-12 194257](https://github.com/user-attachments/assets/9c9d4633-bcd9-4804-871a-01df1ec51f3d)
+
+- **Dashboard 4**: ![Screenshot 2025-02-12 194316](https://github.com/user-attachments/assets/c6d6c32a-9fc8-456a-be55-5873e8fbe611)
+
+- **Final Story Presentation**: A step-by-step visualization showcasing insights, trends, and model predictions in an interactive Tableau format.
+
 
 ## Expected Outcomes
 - A trained ML model that predicts customer conversion rates
