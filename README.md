@@ -1,4 +1,3 @@
-# Project4_Team4_ML
 Machine Learning (ML)
 # Project 4: Social Media Marketing Campaign Analytics Using Machine Learning
 
@@ -19,7 +18,7 @@ Marketing campaigns generate vast amounts of data, but businesses often struggle
 - **Purpose**: To provide data-driven insights that help businesses allocate their ad spend more effectively and optimize their campaign strategies.
 
 ## Dataset
-- **Source**: [Kaggle - Social Media Marketing Campaign Analytics Data](https://www.kaggle.com/datasets/rabieelkharoua/predict-conversion-in-digital-marketing-dataset)
+(https://www.kaggle.com/datasets/rabieelkharoua/predict-conversion-in-digital-marketing-dataset)
 - **Size**: 8000 rows of data
 - **Features**:
   - **Demographic Information**: CustomerID, Age, Gender, Income
