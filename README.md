@@ -10,6 +10,13 @@ Machine Learning (ML)
 ## Project Overview
 Our group will analyze and visualize the effectiveness of digital marketing campaigns using machine learning (ML) and other technologies we have learned. The project aims to identify key factors driving customer engagement and conversion rates by leveraging predictive modeling techniques.
 
+## File Description
+data_cleaning.ipynb: Jupyter notebook with data cleaning steps
+Group_Project_4RE.ipynb: Jupyter notebook with Classification Matrix
+digital_marketing_analysis_colab.ipynb: Jupyter notebook with Machine Learning models (Neural Network and Random Forest)
+Project4_Team4_Tableau.twbx: Desktop version of the Tableau dashboard
+Link to Tableau public: https://public.tableau.com/app/profile/aaqib.jabbar6339/viz/Project4_Team4_Tableau/Story1?publish=yes
+
 ## Problem Statement
 Marketing campaigns generate vast amounts of data, but businesses often struggle to interpret this data to optimize their strategies. Our goal is to develop an ML model that predicts customer conversion rates based on marketing-specific and demographic variables, helping businesses maximize their return on investment (ROI).
 
